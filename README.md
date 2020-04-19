@@ -10,7 +10,7 @@ A responsive Product Landing Page designed with HTML and CSS.
 
 ![productlanding](https://raw.githubusercontent.com/anferebu/PRODUCT-LANDING-PAGE/master/productlanding.jpg)
 
-# INSTRUCTIONS
+<strong>INSTRUCTIONS</strong>
 
 1. Download and unzip the repository folder.
 2. Open the index.html file in Google Chrome to see the project.
